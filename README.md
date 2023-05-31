@@ -53,7 +53,7 @@ To deploy this project change Client ID and Secret ID and run
 
 ## Documentation
 
-[Documentation](https://moodify-documentation.tiiny.site)
+[Documentation](https://github.com/orzanai/Moodify/blob/main/Moodify.pdf)
 
 
 ## Team Members
