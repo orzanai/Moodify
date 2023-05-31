@@ -5,7 +5,7 @@
 
 Moodify is a project that aims to recognize the emotions of songs using the LGBM model and generate more emotion-focused recommendations by utilizing the obtained emotion output in conjunction with cosine similarity.
 
-For mor detailed information, please check the documentation below.
+For more detailed information, please check the documentation below.
 
 
 
