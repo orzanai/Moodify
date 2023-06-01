@@ -3,7 +3,6 @@ lightgbm
 streamlit
 pandas
 spotipy
-SpotifyOAuth
 requests
 base64
 numpy
