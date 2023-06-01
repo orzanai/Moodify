@@ -1,8 +1,11 @@
 joblib
-from lightgbm import LGBMClassifier
-import streamlit as st
-import pandas as pd
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
-import requests
-import base64
+lightgbm
+LGBMClassifier
+streamlit
+pandas
+spotipy
+spotipy.oauth2
+SpotifyOAuth
+requests
+base64
+numpy
