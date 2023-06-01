@@ -1,6 +1,5 @@
 joblib
 lightgbm
-LGBMClassifier
 streamlit
 pandas
 spotipy
