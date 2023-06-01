@@ -3,7 +3,6 @@ lightgbm
 streamlit
 pandas
 spotipy
-spotipy.oauth2
 SpotifyOAuth
 requests
 base64
